@@ -1,16 +1,7 @@
-# chat_app
+# Chat App
 
-A new Flutter project.
+A cross-platform chat application that let's the user create an account and communicate in a group chat with their friends. The app was developed using Flutter, Dart and Google Firebase.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/90746623/216775392-d5a319fb-dba4-4296-9365-2de3a365c080.png" width="296" height="423"/><img src="https://user-images.githubusercontent.com/90746623/216775393-729c19d1-258a-4460-969b-dc67e4b4904b.png" width="296" height="423"/>><img src="https://user-images.githubusercontent.com/90746623/216775394-3b4f717a-ae82-4bef-ac28-f213d8c951a1.png" width="296" height="423"/>  
