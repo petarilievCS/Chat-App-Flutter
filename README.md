@@ -4,4 +4,4 @@ A cross-platform chat application that let's the user create an account and comm
 
 # Screenshots
 
-<img src="https://user-images.githubusercontent.com/90746623/216775392-d5a319fb-dba4-4296-9365-2de3a365c080.png" width="291" height="545"/><img src="https://user-images.githubusercontent.com/90746623/216775393-729c19d1-258a-4460-969b-dc67e4b4904b.png" width="291" height="545"/>><img src="https://user-images.githubusercontent.com/90746623/216775394-3b4f717a-ae82-4bef-ac28-f213d8c951a1.png" width="291" height="545"/>  
+<img src="https://user-images.githubusercontent.com/90746623/216775392-d5a319fb-dba4-4296-9365-2de3a365c080.png" width="269" height="503"/><img src="https://user-images.githubusercontent.com/90746623/216775393-729c19d1-258a-4460-969b-dc67e4b4904b.png" width="269" height="503"/>><img src="https://user-images.githubusercontent.com/90746623/216775394-3b4f717a-ae82-4bef-ac28-f213d8c951a1.png" width="269" height="503"/>  
